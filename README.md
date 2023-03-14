@@ -25,4 +25,4 @@
 Podem copiar que eu faço, mas não podem copiar o que sei fazer.
 
 ## As linguagens mais utilizadas (por mim)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurstrelow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurstrelow)](https://github.com/anuraghazra/github-readme-stats)
