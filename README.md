@@ -1,31 +1,68 @@
-### Opa! Eu sou o Arthur 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_strl/)
-[![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arthur_strelow)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurstrelow/)
+###
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurstrelow&show_icons=true&theme=transparent)
+<div align="center">
+  <a href="https://www.linkedin.com/in/arthurstrelow/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/arthur_strelow" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://app.hackthebox.com/public/users/2347670" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+</div>
 
-## Tecnologias em uso
+###
 
-<div style="display: inline_block">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="nodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-</div><br>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arthurstrelow.arthurstrelow&"  />
+</div>
 
-## Tecnologias em aprendizagem
+###
 
-<div style="display: inline_block">
-  <img align="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div><br>
+<h1 align="center">Opa! Eu sou o Arthur 👋</h1>
 
-Podem copiar que eu faço, mas não podem copiar o que sei fazer.
+###
 
-## As linguagens mais utilizadas (por mim)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurstrelow&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">Sou o Arthur,<br><br>- 🔭 Atualmente focado em Cybersecurity, com ênfase em Pentest e Red Team<br>- 📚 Estou estudando ataques em Active Directory, exploração de vulnerabilidades web e técnicas de privilege escalation<br>- ⚡ No tempo livre resolvo CTFs, monto laboratórios e faço pesquisas de vulnerabilidades</p>
+
+###
+
+<h3 align="left">🛠 Linguagem e Ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥 Estatísticas:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arthurstrelow&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+> “Podem copiar o que eu faço, mas não podem copiar o que eu sei fazer.”
